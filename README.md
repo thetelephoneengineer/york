@@ -18,4 +18,6 @@ I cover South Bank, Micklegate, Tang Hall, Heworth, York Central ; Woodthorpe, D
 
 With years of hands-on experience in the telecommunications field, I combine technical expertise with practical know-how to deliver top-quality service. Whether you're looking to upgrade your systems or troubleshoot connectivity issues, I’m here to help.
 
-[York](https://github.com/thetelephoneengineer/york) - [Wetherby](https://github.com/thetelephoneengineer/wetherby) - [Leeds](https://github.com/thetelephoneengineer/leeds) - [Huddersfield](https://github.com/thetelephoneengineer/huddersfield)
+Other Areas Covered
+
+[York](https://github.com/thetelephoneengineer/york) - [Wetherby](https://github.com/thetelephoneengineer/wetherby) - [Leeds](https://github.com/thetelephoneengineer/leeds) - [Huddersfield](https://github.com/thetelephoneengineer/huddersfield) - [Harrogate](https://github.com/thetelephoneengineer/harrogate) - [Halifax](https://github.com/thetelephoneengineer/halifax) - [Pontefract](https://github.com/thetelephoneengineer/pontefract) - [Wakefield](https://github.com/thetelephoneengineer/wakefield) - [Bradford](https://github.com/thetelephoneengineer/bradford)
